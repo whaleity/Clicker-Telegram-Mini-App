@@ -1,5 +1,5 @@
 {
-  "public": true,
-  "rewrites": [{ "source": "/(.*)", "destination": "/Telegram-Mini-App/$1" }]
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/Telegram-Mini-App/$1" }
+  ]
 }
-w
